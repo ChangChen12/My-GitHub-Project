@@ -4,3 +4,6 @@
 # 测试
 测试能否成功上传到github
 
+else:
+        break
+
